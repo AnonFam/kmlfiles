@@ -170,6 +170,7 @@
 		</PolyStyle>
 	</Style>
 	<Style id="PolyStyle00220">
+			<name>Magadi Road</name>
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
@@ -1990,6 +1991,7 @@
 		</PolyStyle>
 	</Style>
 	<Style id="PolyStyle00150">
+		<name
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
