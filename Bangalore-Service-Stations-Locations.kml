@@ -169,8 +169,9 @@
 			<color>7fff00aa</color>
 		</PolyStyle>
 	</Style>
+		<name>Magadi Road</name>
 	<Style id="PolyStyle00220">
-			<name>Magadi Road</name>
+		
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
